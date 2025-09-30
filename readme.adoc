@@ -1,7 +1,8 @@
-= Robot-Conga
-A blogging website & multi-agent simulation framework
+# Robot-Conga
+A multi-agent simulation framework
+= The Robot-Conga: 
 :toc:
-:toc-title: 📑 Table of Contents
+:toc-placement!:
 
 **The Robot-Conga** is a leader–follower walking approach for sequential path following in a multi-agent system.
 
