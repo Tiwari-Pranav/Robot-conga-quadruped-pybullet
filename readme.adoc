@@ -2,7 +2,6 @@
 A blogging website & multi-agent simulation framework
 :toc:
 :toc-title: 📑 Table of Contents
-:toclevels: 3
 
 **The Robot-Conga** is a leader–follower walking approach for sequential path following in a multi-agent system.
 
