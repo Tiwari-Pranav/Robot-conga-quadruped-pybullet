@@ -10,10 +10,6 @@ Project Website: https://robot-conga.github.io/[Robot-Conga Website]
 
 ---
 
-[discrete]
-# INDEX
-toc::[]
-
 == 🔎 Overview
 
 The *Robot-Conga* project demonstrates coordinated leader–follower locomotion in a multi-agent system.  
