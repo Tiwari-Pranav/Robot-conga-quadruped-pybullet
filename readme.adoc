@@ -11,8 +11,7 @@ Project Website: https://robot-conga.github.io/[Robot-Conga Website]
 
 [discrete]
 # INDEX
-
----
+toc::[]
 
 == 🔎 Overview
 
