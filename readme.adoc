@@ -8,6 +8,10 @@ A multi-agent simulation framework
 
 Project Website: https://robot-conga.github.io/[Robot-Conga Website]
 
+Here are some examples of Robot-Conga in action:
+
+image::resources/gif/QUADRUPED_CONVOY.gif[Leader-Follower Simulation, width=600, align=center]
+
 ---
 
 == 🔎 Overview
