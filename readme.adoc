@@ -1,0 +1,67 @@
+= Robot-Conga
+A blogging website & multi-agent simulation framework
+:toc:
+:toc-title: 📑 Table of Contents
+:toclevels: 3
+
+**The Robot-Conga** is a leader–follower walking approach for sequential path following in a multi-agent system.
+
+Project Website: https://robot-conga.github.io/[Robot-Conga Website]
+
+---
+
+== 🔎 Overview
+
+The *Robot-Conga* project demonstrates coordinated leader–follower locomotion in a multi-agent system.  
+It leverages physics simulation via *PyBullet* to model quadruped robots following a sequential path, similar to a "conga line" of robots.
+
+This project can be extended for:
+- Swarm robotics research
+- Reinforcement learning
+- Path-following experiments
+
+---
+
+== 🛠️ Technologies Used
+
+- *Python* – Primary programming language
+- *PyBullet* – Physics simulation and rendering of quadruped robots
+- *NumPy / Matplotlib* – Numerical computation and visualization (if included in requirements)
+
+---
+
+== 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+. Clone the repository
++
+[source,bash]
+----
+git clone https://github.com/Tiwari-Pranav/Robot-conga-quadruped-pybullet/
+cd Robot-conga-quadruped-pybullet
+----
+
+. Install dependencies
++
+[source,bash]
+----
+pip install -r requirements.txt
+----
+
+. Run a simulation
++
+[source,bash]
+----
+python leader_follower_sim.py
+----
+
+---
+
+== 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an https://github.com/Tiwari-Pranav/Robot-conga-quadruped-pybullet/issues[issue] or submit a pull request.
+
+
+
